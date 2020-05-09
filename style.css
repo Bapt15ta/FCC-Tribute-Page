@@ -1,0 +1,39 @@
+html {
+   font-size: 10px;
+   font-family: Comic Neue, monospace;
+   background-color: #FFE3E3;
+}
+
+#main {
+  font-size: 4rem;
+  margin: 20px;
+}
+
+#title {
+  text-align: center;
+}
+
+#img-div {
+  line-height: 1.5rem;
+  padding: 50px 0 50px 0;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  border-color: black;
+  border-width: 10px;
+  border-style: solid;
+}
+
+#img-caption {
+    font-size: 3rem;
+    text-align: center;
+}
+
+#tribute-info {
+  font-size: 3rem;
+  margin: 0 100px 0 100px;
+}
